@@ -773,6 +773,9 @@ def drag_work():
     
     update_work()
 
+#test again
+
+
 
 #Trương Mỹ Ngọc test diff
 
